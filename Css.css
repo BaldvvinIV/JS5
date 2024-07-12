@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+.Button-list {
+    padding-top: 30px;
+    width: 800px;
+    margin: auto;
+}
+.Button-list ul li {
+    display: inline;
+    list-style: none;
+    padding:10px; 
+    color: rgb(161, 116, 116);
+}
